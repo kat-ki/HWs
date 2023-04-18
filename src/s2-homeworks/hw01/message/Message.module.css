@@ -1,0 +1,43 @@
+.message {
+    background-color: white;
+    border-color: lightgrey;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.imageAndText {
+}
+
+.imageAndText img {
+    width: 50px;
+    align-items: start;
+}
+
+.text {
+    text-align: right;
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: medium;
+}
+
+.text:after {
+
+}
+
+.name {
+
+}
+
+.messageText {
+    font-family: Calibri;
+}
+
+.time {
+    font-family: Calibri;
+    text-align: right;
+}

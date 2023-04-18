@@ -1,0 +1,44 @@
+.friendMessage {
+    background-color: white;
+    border-color: lightgrey;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.friendImageAndText {
+
+}
+
+.friendImageAndText img {
+    width: 50px;
+    align-items: end;
+}
+
+.friendText {
+    text-align: left;
+    background-color: lightgrey;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: medium;
+}
+
+.friendText:after {
+
+}
+
+.friendName {
+
+}
+
+.friendMessageText {
+    font-family: Calibri;
+}
+
+.friendTime {
+    font-family: Calibri;
+    text-align: left;
+}

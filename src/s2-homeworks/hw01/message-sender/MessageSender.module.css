@@ -1,0 +1,32 @@
+.sendForm {
+    background-color: red;
+    display: inherit;
+}
+
+.textarea {
+    margin: 0 10px 0 10px;
+    padding: 10px;
+    font-family: Calibri;
+    border-radius: 20px;
+    background-color: lightgrey;
+    border-color: grey;
+
+
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 50px;
+    height: 25px;
+    font-family: Calibri;
+    margin: 0 10px 0 10px;
+}
+
+.button:hover {
+
+}
+.button:active {
+
+}
