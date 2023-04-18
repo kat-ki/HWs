@@ -1,7 +1,7 @@
 {
   "name": "hws2",
-  "homepage": "https://kat-ki.github.io/HWs",
-  "version": "0.1.0",
+  "homepage": "https://kat-ki.github.io/kat-ki-HWs",
+  "version": "0.1.0"
   "private": true,
   "dependencies": {
     "@emotion/react": "11.10.4",
