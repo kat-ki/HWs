@@ -12,7 +12,8 @@
 
 .imageAndText img {
     width: 50px;
-    align-items: start;
+    border-radius: 50px;
+    align-items: flex-end;
 }
 
 .text {
@@ -34,10 +35,10 @@
 }
 
 .messageText {
-    font-family: Calibri;
+    font-family: sans-serif;
 }
 
 .time {
-    font-family: Calibri;
+    font-family: sans-serif;
     text-align: right;
 }

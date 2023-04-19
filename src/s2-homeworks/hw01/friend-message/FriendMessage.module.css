@@ -13,6 +13,7 @@
 
 .friendImageAndText img {
     width: 50px;
+    border-radius: 50%;
     align-items: end;
 }
 
@@ -35,10 +36,10 @@
 }
 
 .friendMessageText {
-    font-family: Calibri;
+    font-family: sans-serif;
 }
 
 .friendTime {
-    font-family: Calibri;
+    font-family: sans-serif;
     text-align: left;
 }

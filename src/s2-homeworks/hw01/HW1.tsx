@@ -24,8 +24,8 @@ export type MessageType = {
 export const message0: MessageType = {
     id: 0,
     user: {
-        avatar: 'avatar', // можно менять
-        name: 'John Snow',  // можно менять
+        avatar: 'https://th.bing.com/th/id/R.99d0eecb6545c7e1995a6f96e5d9dd06?rik=ayflvZrTpkuczQ&pid=ImgRaw&r=0', // можно менять
+        name: 'Jon Snow',  // можно менять
     },
     message: {
         text: 'Hello, winter is coming', // можно менять
@@ -35,11 +35,11 @@ export const message0: MessageType = {
 export const friendMessage0: MessageType = {
     id: 100,
     user: {
-        avatar: avatar, // можно менять
-        name: 'Peppa Pig', // можно менять
+        avatar: 'https://aws.glamour.es/prod/designs/v1/assets/1000x1000/478414.jpeg', // можно менять
+        name: 'Ygritte But', // можно менять
     },
     message: {
-        text: 'Hi, how are you doing?', // можно менять
+        text: 'You know nothing, Jon Snow', // можно менять
         time: '12:00', // можно менять
     },
 }
